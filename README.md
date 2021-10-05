@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mizoko</h1>
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://dribbble.com/iemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="iemon" height="30" width="40" /></a>
